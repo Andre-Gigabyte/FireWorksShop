@@ -1,0 +1,113 @@
+body {
+    font-family: sans-serif;
+    background-color: #9a189e;
+}
+
+header {
+
+    background-color: #7A207D;
+    padding: 10px;
+}
+
+header img {
+    border-radius: 20px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: #CF5FD3;
+    border: solid #68006C 3px;
+    padding: 4px;
+    border-radius: 10px;
+    color: white;
+}
+
+header b {
+    -webkit-text-stroke: 0.3px white;
+    font-size: 20px;
+}
+
+main h1 {
+    text-align: center;
+    color: #CF5FD3;
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: #68006C;
+    border: 10px solid #68006C;
+}
+
+footer p {
+    padding: 10px;
+    background-color: #CF5FD3;
+    color: white;
+}
+
+.img {
+    background: #CD35D3;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+h2 {
+    color: rgb(230, 200, 241);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.bob {
+    text-decoration: none;
+    color: #e188e4;
+    font-size: 20px;
+}
+
+.nav {
+    text-decoration: none;
+    background-color: #5B2680;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    border: white solid 2px;
+    color: black;
+    font-size: 15px;
+    
+}
+
+select {
+    width: 120px;
+    height: 25px;
+    border: #42036F solid 2px;
+    background-color: #7A207D;
+    color: rgb(193, 135, 231);
+    border-radius: 5px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.stonks {
+    opacity: 0.6;
+}
+
+.nav:hover {
+    color: white;
+}
+
+.pod:hover{
+    color: black;
+}
+
+.hop {
+    text-decoration:2px white underline;
+}
+
+.bobstroitel {
+    color: #e188e4;
+    font-size: 20px;
+    text-align: center;
+}
+
